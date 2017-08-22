@@ -1,0 +1,26 @@
+.bookBox{
+	width: 120px;
+	height: 200px;
+	display: inline-block;
+	margin: 30px 30px;
+	background-color:#eee;
+	box-shadow: 1px 2px 3px #eee; 
+	overflow: hidden;
+}
+.bookBox .bookImg{
+	width: 100%;
+	height: 180px;
+	background: transparent;
+}
+.bookBox .bookImg img{
+	width: 120px;
+	height: 180px;
+	background: #999;
+}
+.bookBox .bookName{
+	text-align: center;
+	color: #eee;
+	width: 100%;
+	color: #000;
+	line-height: 20px;
+}
