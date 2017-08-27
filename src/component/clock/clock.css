@@ -1,0 +1,7 @@
+.clockBox{
+    width:100%;
+    height:1.5em;
+    line-height:1.5em;
+    background-image:linear-gradient(#581 50%,#690 50%);
+    box-shadow:1px 2px 3px #333;
+}

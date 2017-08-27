@@ -1,0 +1,36 @@
+
+
+.articleList{
+    width:900px;
+    height:auto;
+    background:#fff;
+    margin:50px auto;
+}
+
+.articleLi{
+    width:900px;
+    margin:10px 0;
+    padding:5px;
+    border-bottom:1px solid #999;
+    cursor:pointer;
+}
+.articleLi:hover{
+    background:#eee;
+}
+.articleName{
+    width:auto;
+    height:1.5em;
+    font-size:1.2em;
+    font-weight:500;
+}
+.articleDate{
+    font-size:.8em;
+    text-align:left;
+    display:inline-block;
+}
+.articleAuthor{
+    font-size:.8em;
+    text-align:left;
+    display:inline-block;
+    margin-left:2em;
+}
